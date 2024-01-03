@@ -15,6 +15,10 @@ This repository contains an implementation of a UNet model for image segmentatio
 - **Customizable for Different Datasets:** The UNet model is designed to be easily customizable for different datasets. You can adapt the architecture and parameters to suit the specific characteristics of your data.
 
 - **Dataset Information:** The dataset utilized in the provided example consists of 512x512 images. The segmentation mask is represented with values 0 and 1, corresponding to background and foreground, respectively.
-
-
+  
+## Results
+You will also find simple functions to show your result in an intuitive way.
+<p align="center">
+  <img src="https://github.com/TenkoliMazzi/FloodAreaSegmentation/blob/main/Images/prediction.png" alt="SVM Plot" width="100%" height="100%">  
+</p>
 Feel free to explore and modify the code to meet your specific requirements. Contributions and feedback are welcome!
