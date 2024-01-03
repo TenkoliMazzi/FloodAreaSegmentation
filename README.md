@@ -19,6 +19,6 @@ This repository contains an implementation of a UNet model for image segmentatio
 ## Results
 You will also find simple functions to show your result in an intuitive way.
 <p align="center">
-  <img src="https://github.com/TenkoliMazzi/FloodAreaSegmentation/blob/main/Images/prediction.png" alt="SVM Plot" width="100%" height="100%">  
+  <img src="https://github.com/TenkoliMazzi/FloodAreaSegmentation/blob/main/Images/prediction.png" alt="SVM Plot" width="60%" height="60%">  
 </p>
 Feel free to explore and modify the code to meet your specific requirements. Contributions and feedback are welcome!
